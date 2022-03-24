@@ -1,0 +1,2 @@
+def allPermutations(string):
+    #no
