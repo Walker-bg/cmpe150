@@ -12,65 +12,6 @@ This repository contains the following materials:
 - **Final Exam Questions**
 - **Practice Questions**
 
-## Repository Structure
-
-The repository is organized into five main folders: `final`, `practice`, `Project4`, `Project5`, and `Project6`.
-
-```
-.
-├── Project4
-│   ├── description.pdf
-│   ├── src
-│   │   ├── hw4.py
-│   │   └── template.py
-│   └── testing
-│       ├── cases1  [49 entries]
-│       ├── cases2  [50 entries]
-│       └── cases3  [600 entries]
-├── Project5
-│   ├── description.pdf
-│   ├── flow-chart.pdf
-│   ├── src
-│   │   └── hw5.py
-│   └── testing
-│       ├── bad  [55 entries]
-│       ├── handmade  [82 entries]
-│       ├── long  [704 entries]
-│       └── short  [705 entries]
-├── Project6
-│   ├── description.pdf
-│   ├── src
-│   │   └── hw6.py
-│   └── testing
-│       ├── crime_scene.txt
-│       ├── hw6.py
-│       ├── solution_part1.txt
-│       ├── solution_part2.txt
-│       ├── solution_part3.txt
-│       ├── test.py
-│       └── tests  [1200 entries]
-├── README.md
-├── final
-│   ├── q1
-│   │   ├── Q1.py
-│   │   ├── Q1_blank.py
-│   │   └── q1.html
-│   ├── q2
-│   │   ├── Q2_blank.py
-│   │   ├── Q2.py
-│   │   └── q2.html
-│   └── q3
-│       ├── Q3.py
-│       ├── Q3_blank.py
-│       └── q3.html
-└── practice
-    ├── ClassExercise [3 entries]
-    ├── RecursionPractice  [14 entries]
-    ├── Stuff  [22 entries]
-    ├── WeeklyPracticeQuestions  [13 entries]
-    └── WeeklyPracticeQuestions2  [14 entries]
-```
-
 ## Project Details
 
 ### Project 4: ASCII Atari-like Game
@@ -147,6 +88,65 @@ The `practice` folder contains various Python files used for practice, organized
 3. **Read the description files**: Each project contains a `description.pdf` file with detailed instructions.
 4. **Run the source code**: Source files are located in the `src/` directory of each project.
 5. **Test your solutions**: Use the provided test cases in the `testing/` directory to validate your solutions.
+
+## Repository Structure
+
+The repository is organized into five main folders: `final`, `practice`, `Project4`, `Project5`, and `Project6`.
+
+```
+.
+├── Project4
+│   ├── description.pdf
+│   ├── src
+│   │   ├── hw4.py
+│   │   └── template.py
+│   └── testing
+│       ├── cases1  [49 entries]
+│       ├── cases2  [50 entries]
+│       └── cases3  [600 entries]
+├── Project5
+│   ├── description.pdf
+│   ├── flow-chart.pdf
+│   ├── src
+│   │   └── hw5.py
+│   └── testing
+│       ├── bad  [55 entries]
+│       ├── handmade  [82 entries]
+│       ├── long  [704 entries]
+│       └── short  [705 entries]
+├── Project6
+│   ├── description.pdf
+│   ├── src
+│   │   └── hw6.py
+│   └── testing
+│       ├── crime_scene.txt
+│       ├── hw6.py
+│       ├── solution_part1.txt
+│       ├── solution_part2.txt
+│       ├── solution_part3.txt
+│       ├── test.py
+│       └── tests  [1200 entries]
+├── README.md
+├── final
+│   ├── q1
+│   │   ├── Q1.py
+│   │   ├── Q1_blank.py
+│   │   └── q1.html
+│   ├── q2
+│   │   ├── Q2_blank.py
+│   │   ├── Q2.py
+│   │   └── q2.html
+│   └── q3
+│       ├── Q3.py
+│       ├── Q3_blank.py
+│       └── q3.html
+└── practice
+    ├── ClassExercise [3 entries]
+    ├── RecursionPractice  [14 entries]
+    ├── Stuff  [22 entries]
+    ├── WeeklyPracticeQuestions  [13 entries]
+    └── WeeklyPracticeQuestions2  [14 entries]
+```
 
 ## License
 
